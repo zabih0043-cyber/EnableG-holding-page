@@ -417,7 +417,7 @@ img {
 
   .hero__logo {
     width: min(7.9rem, 31vw);
-    transform: translateY(-5rem);
+    transform: translateY(-5.7rem);
   }
 
   .hero__content {
